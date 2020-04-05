@@ -27,10 +27,25 @@ h1 {
 #image {
   max-width: 100%;
   height: auto;
+  border-radius: 5px;
   display: block;
   margin: auto;
 }
 
 #img-caption {
   text-align: center;
+  color: #808080;
+}
+
+hr {
+  max-width: 900px;
+}
+
+#timeline {
+  max-width: 900px;
+  margin: auto;
+}
+
+#time {
+  font-weight: 600;
 }
