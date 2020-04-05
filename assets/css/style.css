@@ -49,3 +49,13 @@ hr {
 #time {
   font-weight: 600;
 }
+
+footer {
+  padding: 10px 0;
+  text-align: center;
+}
+
+#footer {
+  max-width: 900px;
+  margin: auto;
+}
