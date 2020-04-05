@@ -46,6 +46,10 @@ hr {
   margin: auto;
 }
 
+li {
+  margin-top: 10px;
+}
+
 #time {
   font-weight: 600;
 }
